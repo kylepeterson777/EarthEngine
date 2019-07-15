@@ -1,4 +1,4 @@
-// Script to process Sentinel-2 MSI imagery and create time series data
+// Script to process Landsat 8 OLI imagery and create time series data
 // script generates times series (csv) and chart of surface reflectance
 
 // Filter Landsat 8 data//
